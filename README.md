@@ -9,7 +9,7 @@ Claude Code plugin with development tools for [Bullet Train](https://bullettrain
 /plugin marketplace add bullet-train-co/bullet_train-claude_code
 
 # Install the plugin
-/plugin install bullet-train@bullet-train-co/bullet_train-claude_code
+/plugin install bullet-train@bullet-train
 ```
 
 ## Available Skills
