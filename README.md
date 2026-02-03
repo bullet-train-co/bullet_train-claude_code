@@ -5,12 +5,16 @@ Claude Code plugin with development tools for [Bullet Train](https://bullettrain
 ## Installation
 
 ```bash
-claude plugin add bullet-train-co/bullet_train-claude_code
+# Add the marketplace
+/plugin marketplace add bullet-train-co/bullet_train-claude_code
+
+# Install the plugin
+/plugin install bullet-train@bullet-train-co/bullet_train-claude_code
 ```
 
 ## Available Skills
 
-### `/link-core`
+### `/bullet-train:link-core`
 
 Clone `bullet_train-core` and link all gems for local development.
 

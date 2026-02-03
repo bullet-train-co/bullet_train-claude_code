@@ -1,0 +1,14 @@
+{
+  "name": "bullet-train-co/bullet_train-claude_code",
+  "owner": {
+    "name": "Bullet Train"
+  },
+  "plugins": [
+    {
+      "name": "bullet-train",
+      "source": ".",
+      "description": "Bullet Train development tools for Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}
