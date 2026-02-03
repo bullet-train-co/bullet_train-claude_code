@@ -1,0 +1,10 @@
+{
+  "name": "bullet-train",
+  "description": "Bullet Train development tools for Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bullet Train"
+  },
+  "repository": "https://github.com/bullet-train-co/bullet_train-claude_code",
+  "license": "MIT"
+}
